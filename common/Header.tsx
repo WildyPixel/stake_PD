@@ -31,7 +31,7 @@ export const Header = () => {
 
         <a href={"https://punkedducks.com"}>
           <img src={'/logo.png'}  style={{ height:"80px" }}></img>
-
+          Beta Version
         </a>
 
 
